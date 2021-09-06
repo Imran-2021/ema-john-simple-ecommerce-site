@@ -1,0 +1,9 @@
+.shop{
+    display: grid;
+    grid-template-columns:75% 23%;
+    grid-gap: 1%;
+
+}
+.products{
+    border-right: 2px solid red;
+}

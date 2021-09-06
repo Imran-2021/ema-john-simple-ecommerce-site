@@ -1,0 +1,24 @@
+.li{
+    padding: 10px;
+    list-style-type:none;
+    text-align: justify;
+}
+
+.styleIt{
+    display: grid;
+    grid-template-columns:1fr 2fr;
+    grid-gap: 2px;
+    border-bottom: 1px solid #000;
+    margin-left: 8px;
+}
+
+.btn{
+    padding: 5px;
+    background-color: orange;
+    border-radius: 7px;
+    border: none;
+    width: 100px;
+    height: 30px;
+    cursor: pointer;
+}
+
